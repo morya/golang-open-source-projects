@@ -72,7 +72,7 @@
 | ---- | ------------------------------- |
 |[ Kel                ]( https://github.com/kelproject            )| Kel 是一个开源的基于 Kubernetes 构建的 PaaS 系统，采用 Python 和 Go 语言开发。Kel 可简化管理 Web 应用发布和托管整个软件生命周期。Kel 帮助开发和运维人员轻松管理他们的应用架构，通过一组工具和组件让 K8S 使用非常简单。 |
 |[ CloudFoundry-Mesos ]( https://github.com/mesos/cloudfoundry-mesos )| Cloud Foundry-Mesos框架由华为与Mesosphere的工程师合作完成，能够为应用提供安全可靠的、可伸缩、可扩展的云端运行环境，并且应用能够 享用Cloud Foundry生态圈内各类丰富的服务资源。企业能够通过Cloud Foundry开发云应用，并通过Cloud Foundry-Mesos将应用部署到DCOS上，使应用能够与DCOS上安装的其他服务及应用框架共享资源，实现资源利用率最大化，能够大幅降低企业 数据中心运营成本。DCOS能够运行在虚拟和物理环境上，能够支持Linux（以及很快支持Windows），并可适用于私有云、公有云及混合云环境。 |
-|[ Flynn              ]( https://github.com/github/flynn          )| Flynn 是一个开源的 PaaS 系统，由 Docker 开发。采用 Go 语言编写。支持数据库包括 Postgres、Redis 和 MongoDB. Flynn 使用完全组件化模块化的设计，任何一个组件和模块都可以独立的进行替换。 |
+|[ Flynn              ]( https://github.com/flynn/flynn           )| Flynn 是一个开源的 PaaS 系统，由 Docker 开发。采用 Go 语言编写。支持数据库包括 Postgres、Redis 和 MongoDB. Flynn 使用完全组件化模块化的设计，任何一个组件和模块都可以独立的进行替换。 |
 |[ DINP               ]( https://git.oschina.net/cnperl/dinp-server )| DINP是又一个基于Docker开发的PaaS平台。               |
 |[ Kubernetes         ]( https://github.com/kubernetes/kubernetes )| Kubernetes 是来自 Google 云平台的开源容器集群管理系统。基于 Docker 构建一个容器的调度服务。该系统可以自动在一个容器集群中选择一个工作容器供使用。其核心概念是 Container Pod。 |
 |[ Tsuru              ]( https://github.com/tsuru/tsuru           )| 在 Tsuru 的 PaaS 服务下，你可以选择自己的编程语言，选择使用 SQL 或者 NoSQL 数据库，memcache、redis、等等许多服务，甚至与你可以使用 Git 版本控制工具来上传你应用。 |
